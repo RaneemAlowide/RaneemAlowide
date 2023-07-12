@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ Hi, I’m @RaneemAlowide
+👀 I’m interested in FullStack Development , UI/UX
+🌱 I’m currently learning FrontEnd web Development and mobile devlpoment
+🌱 I’m currently a Software Engineering
+📫 How to reach me on my twitter acc : @R_287r
 <!--
 **RaneemAlowide/RaneemAlowide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
